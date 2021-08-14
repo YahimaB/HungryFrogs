@@ -50,6 +50,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33136991cc16446e9ffd0bfc1bc386fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _eatID: 0
   _flyPrefab: {fileID: 2195198792308945574, guid: b12ef4e19346542c096315e862e92a50,
     type: 3}
   _slider: {fileID: 1036872859008457139}
@@ -172,8 +173,8 @@ MonoBehaviour:
   m_ChildAlignment: 8
   m_StartCorner: 3
   m_StartAxis: 0
-  m_CellSize: {x: 50, y: 50}
-  m_Spacing: {x: 40, y: 40}
+  m_CellSize: {x: 100, y: 100}
+  m_Spacing: {x: 80, y: 80}
   m_Constraint: 1
   m_ConstraintCount: 1
 --- !u!114 &2627181420050500551
